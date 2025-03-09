@@ -31,5 +31,5 @@ Starbucks/
 ## 📞 Contacto
 
 Si deseas contribuir o tienes alguna sugerencia, puedes contactarme en:  
-✉️ **[https://github.com/estebanzeaalvarez]**  
+✉️ **[Discord](https://discord.com/users/estebanzea777)**  
 👨‍💻 **[Mi perfil de GitHub](https://github.com/estebanzeaalvarez)**  
