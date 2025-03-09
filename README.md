@@ -1,7 +1,6 @@
-
 # ☕ Starbucks Clone
 
-Este proyecto es una página web inspirada en Starbucks con una barra de navegación estilizada, secciones de productos y un diseño moderno utilizando HTML y CSS.
+Este proyecto es una página web inspirada en Starbucks con una barra de navegación estilizada, secciones de productos y un diseño moderno utilizando HTML y CSS. 🚀
 
 ## Características 📌
 ✅ Barra de navegación estilizada con sombras y efectos hover.
@@ -9,7 +8,7 @@ Este proyecto es una página web inspirada en Starbucks con una barra de navegac
 ✅ Botones estilizados con bordes redondeados.
 ✅ Diseño responsivo para diferentes tamaños de pantalla
 
-## 🚀 Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - **HTML** para la estructura de la página.
 - **CSS** para el diseño y estilos.
