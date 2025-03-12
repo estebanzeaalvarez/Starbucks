@@ -3,10 +3,11 @@
 Este proyecto es una página web inspirada en Starbucks con una barra de navegación estilizada, secciones de productos y un diseño moderno utilizando HTML y CSS. 🚀
 
 ## Características 📌
-✅ Barra de navegación estilizada con sombras y efectos hover.
-✅ Sección de productos con imágenes y descripciones.
-✅ Botones estilizados con bordes redondeados.
-✅ Diseño responsivo para diferentes tamaños de pantalla
+
+- ✅ Barra de navegación estilizada con sombras y efectos hover.
+- ✅ Sección de productos con imágenes y descripciones.
+- ✅ Botones estilizados con bordes redondeados.
+- ✅ Diseño responsivo para diferentes tamaños de pantalla
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -22,7 +23,7 @@ Starbucks/
 │── README.md         # Este archivo
 ```
 
-## 📜 Instalación y Uso 🔧
+## 📦 Instalación y Uso 
 
 1. **Clona este repositorio**  
    ```bash
