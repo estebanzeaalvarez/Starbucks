@@ -8,10 +8,10 @@ Puedes ver el resultado final desplegado en GitHub Pages aquí:
 
 ## Características 📌
 
-- ✅ Barra de navegación estilizada con sombras y efectos hover.
-- ✅ Sección de productos con imágenes y descripciones.
-- ✅ Botones estilizados con bordes redondeados.
-- ✅ Diseño responsivo para diferentes tamaños de pantalla
+* ✅ **Navegación Estilizada:** Barra de menú con sombras dinámicas y efectos *hover* suaves.
+* ✅ **Catálogo de Productos:** Secciones dedicadas con imágenes optimizadas y descripciones claras.
+* ✅ **UI Moderna:** Botones estilizados con bordes redondeados y tipografía de alta legibilidad.
+* ✅ **Diseño Responsivo:** Adaptado para ofrecer una buena experiencia en diferentes tamaños de pantalla.
 
 ## 🛠️ Tecnologías Utilizadas
 
