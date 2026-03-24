@@ -2,6 +2,10 @@
 
 Este proyecto es una página web inspirada en Starbucks con una barra de navegación estilizada, secciones de productos y un diseño moderno utilizando HTML y CSS. 🚀
 
+🔗 Ver Proyecto en Vivo
+Puedes ver el resultado final desplegado en GitHub Pages aquí:
+👉 **[VER STARBUCKS CLONE](https://estebanzeaalvarez.github.io/Starbucks/)**
+
 ## Características 📌
 
 - ✅ Barra de navegación estilizada con sombras y efectos hover.
